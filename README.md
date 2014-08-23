@@ -1,7 +1,3 @@
-# Pydgn
-
-Forked from Daniel Groves's project, below.
-
 # Vagrant Tutorial
 
 This repository is the [counterpart for a tutorial on my website](https://danielgroves.net/notebook/2014/05/development-environments/ "Vagrant and Ansible Development ENvironments"). It probably won't be actively maintained in the long run.
